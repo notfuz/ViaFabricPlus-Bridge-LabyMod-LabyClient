@@ -40,3 +40,6 @@ Drop the jar into `.minecraft/labymod-neo/addons/` (or `.../labymod4/addons/`) n
 
 * The per-server version button (VFP's *Edit Server* screen) cannot be added to LabyMod's own server list.
 * VFP's own settings are not mirrored into LabyMod's UI; use the *settings* button.
+
+## How it looks
+![Menu Showcase](https://github.com/notfuz/ViaFabricPlus-Bridge-LabyMod-LabyClient/blob/main/Menu%20Showcase.webp?raw=true)
