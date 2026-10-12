@@ -1,0 +1,77 @@
+{
+  "vfpbridge": {
+    "settings": {
+      "name": "ViaFabricPlus Bridge",
+      "enabled": {
+        "name": "Enabled",
+        "description": "Hotkey and re-applying your version on startup. The buttons below always work."
+      },
+      "openMenu": {
+        "name": "ViaFabricPlus menu",
+        "description": "The main ViaFabricPlus screen: pick your protocol version (Release, Beta, Alpha, Classic, April Fools, Bedrock, favorites, search).",
+        "text": "Open"
+      },
+      "openSettings": {
+        "name": "ViaFabricPlus settings",
+        "description": "All ViaFabricPlus settings tabs: General, Bedrock, Authentication, Visual, Debug.",
+        "text": "Open"
+      },
+      "openClassiCube": {
+        "name": "ClassiCube server list",
+        "description": "Browse and join ClassiCube servers (asks you to log in first). Not available while connected to a server.",
+        "text": "Open"
+      },
+      "openBetaCraft": {
+        "name": "BetaCraft server list",
+        "description": "Browse and join BetaCraft servers. Not available while connected to a server.",
+        "text": "Open"
+      },
+      "openReport": {
+        "name": "Report issues",
+        "description": "ViaFabricPlus' report-an-issue screen.",
+        "text": "Open"
+      },
+      "header": {
+        "version": {
+          "name": "Version"
+        },
+        "options": {
+          "name": "Options"
+        }
+      },
+      "targetVersion": {
+        "name": "Target version",
+        "description": "Type a version (1.8.9, 1.12.2, 1.21.x, b1.7.3, c0.30, auto, native) and press Apply. Always shows the version ViaFabricPlus is using right now."
+      },
+      "applyVersion": {
+        "name": "Apply typed version",
+        "text": "Apply"
+      },
+      "newerVersion": {
+        "name": "Switch to next newer version",
+        "text": "Newer"
+      },
+      "olderVersion": {
+        "name": "Switch to next older version",
+        "text": "Older"
+      },
+      "resetVersion": {
+        "name": "Reset to native version",
+        "description": "Use the version of your Minecraft client (no protocol translation).",
+        "text": "Reset"
+      },
+      "openMenuKey": {
+        "name": "Hotkey: open ViaFabricPlus menu",
+        "description": "Press this key on any screen to open the ViaFabricPlus menu."
+      },
+      "applyOnStartup": {
+        "name": "Re-apply version on startup",
+        "description": "Apply the version above every time the game starts."
+      },
+      "notifications": {
+        "name": "Show notifications",
+        "description": "Show a notification when the version changes."
+      }
+    }
+  }
+}

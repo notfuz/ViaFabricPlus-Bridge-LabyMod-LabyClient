@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Game-Version-v1_21_10: 1.21.10
+Game-Mappings-v1_21_10: com.mojang:mappings:1.21.10
+

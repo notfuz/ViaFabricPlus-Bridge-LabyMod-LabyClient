@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Game-Mappings-v1_12_2: de.oceanlabs:mappings:1.12.2
+Game-Version-v1_12_2: 1.12.2
+
