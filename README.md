@@ -46,3 +46,6 @@ Drop the jar into `.minecraft/labymod-neo/addons/` (or `.../labymod4/addons/`) n
 
 ## How it looks
 ![Menu Showcase](https://github.com/notfuz/ViaFabricPlus-Bridge-LabyMod-LabyClient/blob/main/Menu%20Showcase.webp?raw=true)
+
+## Helpers
+Thanks to RuinsOnGames for helping me beta test!
