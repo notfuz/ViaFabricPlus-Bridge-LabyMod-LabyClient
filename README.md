@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Archived:** This addon has been archived because Laby added native support for ViaFabricPlus to their custom UI shortly after this plugin went public.
+
 # ViaFabricPlus Bridge (LabyMod 4 addon)
 
 LabyMod replaces the multiplayer / edit-server screens, so the ViaFabricPlus buttons that normally live
